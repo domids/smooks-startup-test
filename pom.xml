@@ -19,7 +19,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <smooks.version>2.0.0-M2</smooks.version>
+        <smooks.version>2.0.0-M3</smooks.version>
         <java.version>1.8</java.version>
     </properties>
 
